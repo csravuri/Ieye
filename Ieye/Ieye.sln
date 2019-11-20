@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ieye.Android", "Ieye.Android\Ieye.Android.csproj", "{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ieye", "Ieye\Ieye.csproj", "{283D4B12-3EDD-4633-8F32-B7003727E722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3393E086-ED7D-4C1C-A00A-F4C30CAAC096}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283D4B12-3EDD-4633-8F32-B7003727E722}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C744090-7151-4BD8-BD18-C29E533A39F5}
+	EndGlobalSection
+EndGlobal

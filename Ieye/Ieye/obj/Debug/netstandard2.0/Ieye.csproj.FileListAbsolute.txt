@@ -1,0 +1,11 @@
+D:\Applications\xamarin\Ieye\Ieye\Ieye\bin\Debug\netstandard2.0\Ieye.deps.json
+D:\Applications\xamarin\Ieye\Ieye\Ieye\bin\Debug\netstandard2.0\Ieye.dll
+D:\Applications\xamarin\Ieye\Ieye\Ieye\bin\Debug\netstandard2.0\Ieye.pdb
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\Ieye.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\Ieye.AssemblyInfoInputs.cache
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\Ieye.AssemblyInfo.cs
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\Ieye.dll
+D:\Applications\xamarin\Ieye\Ieye\Ieye\obj\Debug\netstandard2.0\Ieye.pdb
